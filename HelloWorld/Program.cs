@@ -8,7 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!!!!");
 
-            Console.WriteLine("Welcome to Planet Earth");
+            Console.WriteLine("Welcome to Earth!!!");
         }
     }
 }
