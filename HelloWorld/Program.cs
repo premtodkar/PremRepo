@@ -2,7 +2,7 @@
 
 namespace HelloWorld
 {
-    //test
+    //tes
     class Program
     {
         static void Main(string[] args)
